@@ -1,0 +1,10 @@
+.img_fullscreen {
+    width: 100%;
+    box-shadow: 10px 10px 15px #7f7a89, 10px 10px 15px #3a23ec;
+    cursor: pointer;
+}
+
+.img_fullscreen:hover {
+    transform: scale(1.03);
+    opacity: 1;
+}
